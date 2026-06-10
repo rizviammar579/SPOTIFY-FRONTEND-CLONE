@@ -948,3 +948,11 @@ svg {
 
     }
 }
+@media screen and (max-width: 750px) {
+    .bottom{
+       display: none;
+    }
+    .seekbar{
+       bottom: 0px; 
+    }
+}
